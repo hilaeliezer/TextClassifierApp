@@ -1,0 +1,10 @@
+{
+ "classification_rules": [
+ {"domain": "financial", "indicators": ["credit card", "bank account"]
+},
+ {"domain": "ron", "indicators": ["helper", "cool"]
+},
+ {"domain": "healthcare", "indicators": ["medical insurance"]
+}
+ ]
+}
