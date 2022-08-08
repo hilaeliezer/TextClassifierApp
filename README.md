@@ -4,7 +4,7 @@
 1. __path in the filesystem__  representing a file or a folder that should be scanned 
 2. __json file path__  representing the list of classification rules
 
-- __Import and save files from GitHub__ [https://github.com/Mcas-Interviews/TextClassifier_Hila_Eliezer.git]
+- __Import and save files from GitHub__ [https://github.com/hilaeliezer/TextClassifierApp.git]
 - __How to run the app:__
 1.open cmd
 2. open repository where the app located
